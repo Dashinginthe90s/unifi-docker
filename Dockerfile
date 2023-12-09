@@ -26,8 +26,8 @@ ENV BASEDIR=/usr/lib/unifi \
     GOSU_VERSION=1.10 \
     BIND_PRIV=true \
     RUNAS_UID0=true \
-    UNIFI_GID=999 \
-    UNIFI_UID=999
+    UNIFI_GID=995 \
+    UNIFI_UID=995
 
 # Install gosu
 # https://github.com/tianon/gosu/blob/master/INSTALL.md
